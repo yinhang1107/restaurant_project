@@ -1,0 +1,27 @@
+.menu__background {
+  background: url(/src/images/hero-image-2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  max-width: 1900px;
+  max-height: 1068px;
+  margin: auto;
+}
+#root .menu__price {
+  width: 20%;
+  text-align: center;
+}
+#root .menu__title__priceHotAndCold {
+  width: 60%;
+}
+#root .menu__title__price {
+  width: 80%;
+}
+
+#root .menu__type__name {
+  font-weight: 600;
+}
+#root .menu__item__name {
+  font-weight: 300;
+}

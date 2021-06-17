@@ -1,0 +1,32 @@
+.list {
+  list-style: none;
+  padding-left: 0;
+}
+.block-footer {
+  padding: 3rem 0;
+  background: #222;
+}
+.block-footer .list-container {
+  color: #fff;
+  margin-bottom: 2rem;
+}
+.block-footer .list-container:last-child {
+  margin-bottom: 0;
+}
+.block-footer .list {
+  font-weight: 300;
+}
+.block-footer .list li {
+  margin: 0.5rem 0;
+}
+.block-footer .footer__icon {
+  margin-right: 0.7rem;
+}
+.working--day {
+  font-style: italic;
+}
+@media screen and (min-width: 768px) {
+  .block-footer h3 {
+    margin-bottom: 1.5rem;
+  }
+}

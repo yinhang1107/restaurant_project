@@ -1,0 +1,55 @@
+/* Hero */
+.hero {
+  height: 50vw;
+}
+.hero__image {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  max-width: 1320px;
+  min-width: 350px;
+  max-height: 900px;
+  min-height: 400px;
+  margin: auto;
+}
+
+/* Banner */
+.hero__banner {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.hero__banner header {
+  color: #fff;
+}
+.hero__banner h1 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.hero__banner h2 {
+  margin-top: 2rem;
+  letter-spacing: 1px;
+  font-size: 1.2rem;
+  line-height: 1.7;
+  font-weight: 300;
+}
+@media screen and (min-width: 768px) {
+  .hero__banner h1 {
+    font-size: 5rem;
+  }
+  .hero__banner h2 {
+    font-size: 1.6rem;
+  }
+}
+
+/* Button */
+.btn__hero {
+  border-radius: 50px;
+  font-size: 1.2rem;
+  margin-top: 1.5rem;
+  padding: 1rem 2rem;
+  transition: all 0.2s;
+}

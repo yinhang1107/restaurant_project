@@ -1,0 +1,9 @@
+.form {
+  padding-top: 0;
+}
+@media screen and (min-width: 992px) {
+  .form {
+    background-color: #a4a4ad;
+    padding: 60px 50px 0;
+  }
+}

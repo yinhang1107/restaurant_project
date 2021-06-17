@@ -1,0 +1,6 @@
+.posts .post {
+  border-bottom: 1px solid lightgrey;
+}
+.posts div:last-child {
+  border-bottom: none;
+}

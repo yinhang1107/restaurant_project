@@ -1,0 +1,35 @@
+/* Contact  */
+.block-contact {
+  margin: 2rem 0;
+}
+.block-contact h3 {
+  font-size: 1rem;
+  opacity: 0.7;
+  margin: 3rem 0 1.2rem;
+}
+
+.form-control.control__dark {
+  background: #fafafa;
+  border: 1px solid lightgrey;
+  resize: none;
+}
+.form-control.control__dark:focus {
+  box-shadow: none;
+  opacity: 1;
+  outline: none;
+  border-color: #b8c5db;
+}
+
+#iframe__maps {
+  width: 100%;
+}
+.contact__description dt {
+  font-size: 1.1rem;
+  margin: 0.3rem 0;
+}
+.contact__description i {
+  margin: 0.4rem;
+}
+.contact__description dd {
+  margin-bottom: 0;
+}

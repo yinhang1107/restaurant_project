@@ -1,0 +1,8 @@
+{
+  "apiEndpointTypes": "yourBaseURL/api/types",
+  "apiEndpointCategories": "yourBaseURL/api/categories",
+  "apiEndpointMenu": "yourBaseURL/api/menu",
+  "apiEndpointUsers": "yourBaseURL/api/users",
+  "apiEndpointAuth": "yourBaseURL/api/auth",
+  "apiEndpointPosts": "yourBaseURL/api/news"
+}

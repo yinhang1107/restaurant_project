@@ -1,0 +1,45 @@
+#root .navbar-transition {
+  transition: all 0.2s;
+}
+
+#root .navbar-brand {
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+#root .nav-link {
+  color: rgba(0, 0, 0, 1);
+  letter-spacing: 1px;
+  font-weight: 300;
+  transition: all 0.2s;
+}
+#root .navbar-nav:hover .nav-link {
+  color: rgba(0, 0, 0, 0.2);
+}
+#root .navbar-nav .nav-link:hover {
+  color: rgba(0, 0, 0, 1);
+}
+@media screen and (min-width: 992px) {
+  #root .navbar {
+    position: absolute;
+    width: 100%;
+    background-color: transparent;
+  }
+  #root .navbar-brand {
+    color: #fff;
+  }
+  #root .nav-link {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-size: 0.9rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  #root .navbar-nav:hover .nav-link {
+    color: rgba(255, 255, 255, 0.5);
+  }
+  #root .navbar-nav .nav-link:hover {
+    color: rgba(255, 255, 255, 1);
+  }
+}
