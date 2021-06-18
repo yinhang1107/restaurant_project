@@ -35,7 +35,7 @@
 - Clicking on new button or the name of the item will navigate user to a form to edit data.
 ![Item Form](https://s2.im.ge/2021/06/18/o3ZFC.png) 
 
-- In the News tab, user can create, delete and edit post. Clicking on the edit button will navigate user to Post form to edit data.
+- In the News tab, user can create, delete and edit post. Clicking on the edit button will also navigate user to Post form to edit data.
 ![Dynamic Post](https://s1.im.ge/2021/06/18/o3Kjq.png)
 
 ## Setup
