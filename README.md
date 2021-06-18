@@ -1,6 +1,6 @@
 # ABC Restaurant
 
-> This website provide general information of a restaurant and also a [__Dynamic Food Menu and Posts__] which can be updated easily.
+> This website provides general information of a restaurant and also a [__Dynamic Food Menu and Posts__] which can be updated easily.
 
 > Live demo [_here_](https://abc-restaurant.netlify.app).
 
